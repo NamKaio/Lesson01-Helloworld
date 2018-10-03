@@ -24,5 +24,13 @@ public class lesson01helloworld {
 	System.out.println(t4);
 		int t5 = a%=b;
 	System.out.println(t5);
+		System.out.println(a == b);
+		System.out.println(a > b);
+		System.out.println(a < b);
+		System.out.println(a >= b);
+		System.out.println(a <= b);
+		System.out.println(a != b);
+			System.out.println(a < b && a > b);
+			System.out.println(a < b || a > b);
 		}
 }
